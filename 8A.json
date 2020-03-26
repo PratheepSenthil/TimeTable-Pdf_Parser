@@ -1,0 +1,289 @@
+{
+  "SubjectInfo": [
+    {
+      "SubjectCode": "CS6801",
+      "Category": "PC",
+      "Credit": "3",
+      "StaffInitial": "DVVP",
+      "SubjectName": "MULTI CORE ARCHITECTURES AND PROGRAMMING",
+      "StaffName": "DR.D.VENKATAVARA PRASAD"
+    },
+    {
+      "SubjectCode": "CS6010",
+      "Category": "PE",
+      "Credit": "3",
+      "StaffInitial": "SVJ",
+      "SubjectName": "SOCIAL NETWORK ANALYSIS",
+      "StaffName": "DR. S. V. JANSI RANI"
+    },
+    {
+      "SubjectCode": "CS6012",
+      "Category": "PE",
+      "Credit": "3",
+      "SubjectName": "SOFT COMPUTING",
+      "StaffInitial": "KL",
+      "StaffName": "DR.K.LEKSHMI"
+    },
+    {
+      "SubjectCode": "CS6811",
+      "Category": "EEC",
+      "Credit": "6",
+      "StaffInitial": "SS",
+      "SubjectName": "PROJECT WORK",
+      "StaffName": "DR.S.SHEERAZUDDIN"
+    }
+  ],
+  "TimeTable": {
+    "MON": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "CS6012"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "CS6010"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "CS6801"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "CS6012"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "MENTOR"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 8,
+        "startTime": "2.50",
+        "endTime": "3.40",
+        "SubjectCode": "CS6811"
+      }
+    ],
+    "TUE": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "CS6010"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "CS6801"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "CS6012"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "TUTORIAL"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "CS6801"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "CS6010"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 8,
+        "startTime": "2.50",
+        "endTime": "3.40",
+        "SubjectCode": "CS6811"
+      }
+    ],
+    "WED": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "CS6801"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "CS6010"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "CS6012"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "LIBRARY"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 8,
+        "startTime": "2.50",
+        "endTime": "3.40",
+        "SubjectCode": "CS6811"
+      }
+    ],
+    "THU": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 8,
+        "startTime": "2.50",
+        "endTime": "3.40",
+        "SubjectCode": "CS6811"
+      }
+    ],
+    "FRI": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "CS6811"
+      },
+      {
+        "PeriodStartingNo": 8,
+        "startTime": "2.50",
+        "endTime": "3.40",
+        "SubjectCode": "CS6811"
+      }
+    ],
+    "SAT": []
+  }
+}

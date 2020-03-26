@@ -1,0 +1,301 @@
+{
+  "SubjectInfo": [
+    {
+      "SubjectCode": "CS8601",
+      "Category": "PC",
+      "Credit": "3",
+      "SubjectName": "MOBILE COMPUTING",
+      "StaffInitial": "AB",
+      "StaffName": "MS.A.BEULAH"
+    },
+    {
+      "SubjectCode": "CS8602",
+      "Category": "PC",
+      "Credit": "4",
+      "StaffInitial": "BB/DT",
+      "SubjectName": "COMPILER DESIGN",
+      "StaffName": "DR.B.BHARATHI"
+    },
+    {
+      "SubjectCode": "CS8603",
+      "Category": "PC",
+      "Credit": "3",
+      "SubjectName": "DISTRIBUTED SYSTEMS",
+      "StaffInitial": "YVL",
+      "StaffName": "DR.Y.V.LOKESWARI"
+    },
+    {
+      "SubjectCode": "CS8651",
+      "Category": "PC",
+      "Credit": "3",
+      "SubjectName": "INTERNET PROGRAMMING",
+      "StaffInitial": "KVD",
+      "StaffName": "DR.K.VALLIDEVI"
+    },
+    {
+      "SubjectCode": "CS8691",
+      "Category": "PC",
+      "Credit": "3",
+      "SubjectName": "ARTIFICIAL INTELLIGENCE",
+      "StaffInitial": "SS",
+      "StaffName": "DR.S.SHEERAZUDDIN"
+    },
+    {
+      "SubjectCode": "CS8075",
+      "Category": "PE",
+      "Credit": "3",
+      "SubjectName": "DATA WAREHOUSING AND DATA MINING",
+      "StaffInitial": "SR",
+      "StaffName": "MS.S.RAJALAKSHMI"
+    },
+    {
+      "SubjectCode": "CS8661",
+      "Category": "PC",
+      "Credit": "2",
+      "SubjectName": "INTERNET PROGRAMMING LAB",
+      "StaffInitial": "KVD/GR",
+      "StaffName": "DR.K.VALLIDEVI/DR.G.RAGHURAMAN"
+    },
+    {
+      "SubjectCode": "CS8662",
+      "Category": "PC",
+      "Credit": "2",
+      "SubjectName": "MOBILE APPLICATION DEVELOPMENT LAB",
+      "StaffInitial": "AB/ADS",
+      "StaffName": "MS.A.BEULAH/MS.S.ANGEL DEBORAH"
+    },
+    {
+      "SubjectCode": "CS8611",
+      "Category": "EEC",
+      "Credit": "1",
+      "SubjectName": "MINI PROJECT",
+      "StaffInitial": "AB & GR",
+      "StaffName": "MS.A.BEULAH "
+    },
+    {
+      "SubjectCode": "HS8581",
+      "Category": "EEC",
+      "Credit": "1",
+      "StaffInitial": "SRI",
+      "SubjectName": "PROFESSIONAL COMMUNICATION",
+      "StaffName": "DR.S.SRINIVAS"
+    }
+  ],
+  "TimeTable": {
+    "MON": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "CS8601"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "CS8691"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "CS8603"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "CS8075"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "CS8651"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "CS8602"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "CS8602"
+      }
+    ],
+    "TUE": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "CS8602"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "CS8602"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "CS8601"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "CS8075"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "CS8691"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "CS8661/CS8662"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "CS8661/CS8662"
+      }
+    ],
+    "WED": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "CS8602"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "CS8651"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "CS8603"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "CS8691"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "CS8651"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "CS8601"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "HS8581"
+      }
+    ],
+    "THU": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "CS8603"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "CS8661"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "CS8661/CS8662"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "ICELL"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "LIBRARY"
+      },
+      {
+        "PeriodStartingNo": 8,
+        "startTime": "2.50",
+        "endTime": "3.40",
+        "SubjectCode": "MENTOR"
+      }
+    ],
+    "FRI": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "CS8651"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "CS8603"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "CS8601"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "CS8075"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "CS8691"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "CS86662"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "CS8611"
+      }
+    ],
+    "SAT": []
+  }
+}

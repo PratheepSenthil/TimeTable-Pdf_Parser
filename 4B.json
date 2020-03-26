@@ -1,0 +1,297 @@
+{
+  "SubjectInfo": [
+    {
+      "SubjectCode": "UCS1401",
+      "Category": "PC",
+      "Credit": "3",
+      "SubjectName": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+      "StaffInitial": "ADS",
+      "StaffName": "MS.S.ANGEL DEBORAH"
+    },
+    {
+      "SubjectCode": "UCS1402",
+      "Category": "PC",
+      "Credit": "3",
+      "SubjectName": "OPERATING SYSTEMS",
+      "StaffInitial": "JB",
+      "StaffName": "DR.J.BHUVANA"
+    },
+    {
+      "SubjectCode": "UCS1403",
+      "Category": "PC",
+      "Credit": "4",
+      "SubjectName": "DESIGN AND ANALYSIS OF ALGORITHMS",
+      "StaffName": "DR.C.ARAVINDAN /MS.S.MANISHA"
+    },
+    {
+      "SubjectCode": "UCS1404",
+      "Category": "PC",
+      "Credit": "3",
+      "SubjectName": "DATABASE MANAGEMENT SYSTEMS",
+      "StaffInitial": "NS"
+    },
+    {
+      "SubjectCode": "UCS1405",
+      "Category": "PC",
+      "Credit": "3",
+      "SubjectName": "SOFTWARE ENGINEERING",
+      "StaffInitial": "AC",
+      "StaffName": "DR.A.CHAMUNDESWARI"
+    },
+    {
+      "SubjectCode": "UCS1411",
+      "Category": "PC",
+      "Credit": "1.5",
+      "SubjectName": "OPERATING SYSTEMS LAB",
+      "StaffInitial": "JB/KRS",
+      "StaffName": "DR.J.BHUVANA"
+    },
+    {
+      "SubjectCode": "UCS1412",
+      "Category": "PC",
+      "Credit": "1.5",
+      "SubjectName": "DATABASE LAB",
+      "StaffInitial": "NS/KL",
+      "StaffName": "DR.K.LEKSHMI"
+    },
+    {
+      "SubjectCode": "UMA1478",
+      "Category": "BS",
+      "Credit": "4",
+      "StaffInitial": "SV/PVG",
+      "SubjectName": "PROBABILITY AND STATISTICS",
+      "StaffName": "DR.S.VANITHA/DR.P.VENUGOPAL"
+    },
+    {
+      "SubjectCode": "UEN1498",
+      "Category": "EEC",
+      "Credit": "1",
+      "SubjectName": "INTERPERSONAL SKILLS",
+      "StaffInitial": "PS",
+      "StaffName": "DR.PRAVEEN SAM"
+    }
+  ],
+  "TimeTable": {
+    "MON": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "UCS1402"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "UCS1401"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "UCS1403"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "UCS1404"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "UCS1402"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "UCS1405"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "UMA1478"
+      },
+      {
+        "PeriodStartingNo": 8,
+        "startTime": "2.50",
+        "endTime": "3.40",
+        "SubjectCode": "MENTOR"
+      }
+    ],
+    "TUE": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "UCS1401"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "UMA1478"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "UCS1402"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "UCS1403"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "UCS1404"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "UCS1411/UCS1412"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "UCS1411/UCS1412"
+      }
+    ],
+    "WED": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "UMA1478"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "UCS1405"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "UCS1401"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "UCS1404"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "UCS1403"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "UCS1402"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "UCS1403"
+      }
+    ],
+    "THU": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "UCS1405"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "UMA1478"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "UCS1411/UCS1412"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "ICELL"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "UCS1404"
+      },
+      {
+        "PeriodStartingNo": 8,
+        "startTime": "2.50",
+        "endTime": "3.40",
+        "SubjectCode": "LIBRARY"
+      }
+    ],
+    "FRI": [
+      {
+        "PeriodStartingNo": 1,
+        "startTime": "8.00",
+        "endTime": "8.50",
+        "SubjectCode": "UCS1404"
+      },
+      {
+        "PeriodStartingNo": 2,
+        "startTime": "8.50",
+        "endTime": "9.40",
+        "SubjectCode": "UCS1402"
+      },
+      {
+        "PeriodStartingNo": 3,
+        "startTime": "9.50",
+        "endTime": "10.40",
+        "SubjectCode": "UCS1403"
+      },
+      {
+        "PeriodStartingNo": 4,
+        "startTime": "10.40",
+        "endTime": "11.30",
+        "SubjectCode": "UMA1478"
+      },
+      {
+        "PeriodStartingNo": 5,
+        "startTime": "11.30",
+        "endTime": "12.20",
+        "SubjectCode": "UCS1401"
+      },
+      {
+        "PeriodStartingNo": 6,
+        "startTime": "1.00",
+        "endTime": "1.50",
+        "SubjectCode": "TUTORIAL"
+      },
+      {
+        "PeriodStartingNo": 7,
+        "startTime": "2.00",
+        "endTime": "2.50",
+        "SubjectCode": "UEN1498"
+      }
+    ],
+    "SAT": []
+  }
+}
